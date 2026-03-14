@@ -1,7 +1,7 @@
 {
     "item": {
         "name": "奇阵防",
-        "description": "这是一个玩法大致就是塔防游戏的小游戏,购买地址:shop.zsxb.me 购买后不退款 9Pro可以实现设备码验证,卸载后重装可以延续密钥 8Pro卸载重装密钥不延续,但可以联系作者获取密钥 QQ群:564555298 爱发电也可购买:https://afdian.com/a/zsxb666",
+        "description": "这是一个塔防策略类的游戏，玩家通过在地图部署防御，抵挡敌方的进攻,购买地址:shop.easejun.cn 购买后不退款 9Pro可以实现设备码验证,卸载后重装可以延续密钥 8Pro卸载重装密钥不延续,但可以联系作者获取密钥 QQ群:564555298 爱发电也可购买:https://afdian.com/a/zsxb666",
         "preview": [
             "preview.png"
         ],
@@ -16,16 +16,16 @@
     },
     "downloads": {
         "n67": {
-            "version": "1.0.0",
-            "file_name": "com.zsxb.watch.arcaneArray.release.1.0.0.rpk"
+            "version": "1.2.0",
+            "file_name": "com.zsxb.watch.arcaneArray.release.1.2.0.rpk"
         },
         "o65": {
-            "version": "1.0.0",
-            "file_name": "com.zsxb.watch.arcaneArray.release.1.0.0.rpk"
+            "version": "1.2.0",
+            "file_name": "com.zsxb.watch.arcaneArray.release.1.2.0.rpk"
         },
         "o65m": {
-            "version": "1.0.0",
-            "file_name": "com.zsxb.watch.arcaneArray.release.1.0.0.rpk"
+            "version": "1.2.0",
+            "file_name": "com.zsxb.watch.arcaneArray.release.1.2.0.rpk"
         }
     }
 }
